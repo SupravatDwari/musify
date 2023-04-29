@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Musify/static/css/main.a6667297.css",
+    "main.js": "/Musify/static/js/main.7d841349.js",
+    "static/media/RobotoCondensed-Light.ttf": "/Musify/static/media/RobotoCondensed-Light.315e30bd24f609c6f8d1.ttf",
+    "static/media/Economica-Bold.ttf": "/Musify/static/media/Economica-Bold.7ec03bc21c448c69f55a.ttf",
+    "index.html": "/Musify/index.html",
+    "main.a6667297.css.map": "/Musify/static/css/main.a6667297.css.map",
+    "main.7d841349.js.map": "/Musify/static/js/main.7d841349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6667297.css",
+    "static/js/main.7d841349.js"
+  ]
+}
